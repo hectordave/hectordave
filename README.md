@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hectordave
+- 👋 Hi, I’m @hectordav
 - 👀 I’m interested in ...html,css,javascript
 - 🌱 I’m currently learning ...html
 - 💞️ I’m looking to collaborate on ...html,css,javascript projects
